@@ -18,5 +18,10 @@
     "id": 4,
     "name": "Skin",
     "description": "안뇽 나는 스킨이야"
+  },
+  {
+    "id": 5,
+    "name": "지렁이",
+    "description": "지렁이가 꿈틀꿈틀"
   }
  ]
